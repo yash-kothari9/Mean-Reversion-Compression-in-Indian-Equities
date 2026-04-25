@@ -1,9 +1,5 @@
 # Mean Reversion Compression in Indian Equities — A Cointegration Analysis of Pairs and Baskets
 
-[![Python 3.13](https://img.shields.io/badge/Python-3.13-blue.svg)](https://www.python.org/downloads/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![IEEE Format](https://img.shields.io/badge/Paper-IEEE%20Journal-orange.svg)](paper.tex)
-
 ## Abstract
 
 This project investigates whether sector-specific regulatory and policy events in India alter the speed of mean reversion in cointegrated equity pairs and baskets. We construct a universe of 31 stocks from the NSE pharmaceutical and auto ancillary sectors spanning April 2019–April 2024, and identify 10 cointegrated pairs using a dual-filter approach combining the Engle-Granger two-step test and the Johansen trace test, with an Ornstein-Uhlenbeck half-life constraint of 5–126 trading days. A vectorized pairs trading backtest with realistic transaction costs (18 basis points per leg) yields Sharpe ratios ranging from −0.72 to 1.25, with the strongest performance concentrated in pairs exhibiting short half-lives (21–40 days). The core contribution is a rolling half-life regime analysis around eight policy events—including PLI scheme announcements, BS-VI emission norm implementations, and NPPA drug price revisions—which reveals that regulatory shocks compress mean-reversion half-life in 59.1% of cases, temporarily strengthening the cointegrating relationship. Extending the framework to 3-stock Johansen baskets yields 133 cointegrated triplets (9 with rank-2 cointegration), with the top baskets producing Sharpe ratios up to 1.49.
