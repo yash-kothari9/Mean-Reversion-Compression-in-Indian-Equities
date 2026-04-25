@@ -1,0 +1,35 @@
+ticker,name,sector,listing_date,status,rows,missing_pct,reason
+AMARARAJA.NS,Amara Raja Batteries,auto_ancillary,1992-01-01,excluded,0,,Empty or <100 rows returned
+LUMAX.NS,Lumax Industries,auto_ancillary,2011-01-01,excluded,0,,Empty or <100 rows returned
+MINDAIND.NS,Minda Industries,auto_ancillary,1997-01-01,excluded,0,,Empty or <100 rows returned
+BALKRISIND.NS,Balkrishna Industries,auto_ancillary,2002-01-01,included,1235,0.0,passed all checks
+BHARATFORG.NS,Bharat Forge,auto_ancillary,1998-01-01,included,1235,0.0,passed all checks
+BOSCHLTD.NS,Bosch India,auto_ancillary,1996-01-01,included,1235,0.0,passed all checks
+ENDURANCE.NS,Endurance Technologies,auto_ancillary,2016-10-18,included,1235,0.0,passed all checks
+EXIDEIND.NS,Exide Industries,auto_ancillary,1997-01-01,included,1235,0.0,passed all checks
+GABRIEL.NS,Gabriel India,auto_ancillary,1999-01-01,included,1235,0.0,passed all checks
+MINDACORP.NS,Minda Corporation,auto_ancillary,2004-01-01,included,1235,0.0,passed all checks
+MOTHERSON.NS,Samvardhana Motherson,auto_ancillary,1993-01-01,included,1235,0.0,passed all checks
+SCHAEFFLER.NS,Schaeffler India,auto_ancillary,2013-10-01,included,1235,0.0,passed all checks
+SUNDRMFAST.NS,Sundram Fasteners,auto_ancillary,1995-01-01,included,1235,0.0,passed all checks
+SUPRAJIT.NS,Suprajit Engineering,auto_ancillary,1999-01-01,included,1235,0.0,passed all checks
+TIINDIA.NS,Tube Investments of India,auto_ancillary,2016-09-14,included,1235,0.0,passed all checks
+ABBOTINDIA.NS,Abbott India,pharma,2010-01-01,included,1235,0.0,passed all checks
+ALKEM.NS,Alkem Laboratories,pharma,2015-12-23,included,1235,0.0,passed all checks
+AUROPHARMA.NS,Aurobindo Pharma,pharma,2000-07-01,included,1235,0.0,passed all checks
+BIOCON.NS,Biocon,pharma,2004-04-07,included,1235,0.0,passed all checks
+CIPLA.NS,Cipla,pharma,1995-02-01,included,1235,0.0,passed all checks
+DIVISLAB.NS,Divi's Laboratories,pharma,2003-03-01,included,1235,0.0,passed all checks
+DRREDDY.NS,Dr. Reddy's Laboratories,pharma,1986-06-01,included,1235,0.0,passed all checks
+GLAXO.NS,GSK Pharma India,pharma,2001-01-01,included,1235,0.0,passed all checks
+GLENMARK.NS,Glenmark Pharmaceuticals,pharma,1999-12-01,included,1235,0.0,passed all checks
+GRANULES.NS,Granules India,pharma,2004-09-01,included,1235,0.0,passed all checks
+IPCALAB.NS,Ipca Laboratories,pharma,1995-03-01,included,1235,0.0,passed all checks
+LAURUSLABS.NS,Laurus Labs,pharma,2016-12-19,included,1235,0.0,passed all checks
+LUPIN.NS,Lupin,pharma,2001-06-01,included,1235,0.0,passed all checks
+NATCOPHARM.NS,Natco Pharma,pharma,1995-01-01,included,1235,0.0,passed all checks
+PFIZER.NS,Pfizer India,pharma,1996-01-01,included,1235,0.0,passed all checks
+SANOFI.NS,Sanofi India,pharma,2009-01-01,included,1235,0.0,passed all checks
+SUNPHARMA.NS,Sun Pharmaceutical,pharma,1994-03-01,included,1235,0.0,passed all checks
+TORNTPHARM.NS,Torrent Pharmaceuticals,pharma,2002-11-01,included,1235,0.0,passed all checks
+ZYDUSLIFE.NS,Zydus Lifesciences,pharma,2010-03-18,included,1235,0.0,passed all checks
